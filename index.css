@@ -1,0 +1,14 @@
+.task{
+    border: 2px solid green;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    /* opacity: 0.3;s */
+    text-align: center;
+}
+
+.completed{
+    border: 2px solid tomato;
+    opacity: 0.3;
+    text-decoration: line-through;
+}   
